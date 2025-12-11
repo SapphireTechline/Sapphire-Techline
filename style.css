@@ -14,8 +14,9 @@ header{
     width: 100%;
     top: 0px;
     z-index: 999;
-    background-color: rgba(255, 255, 255, 0.134);
+    background-color: #FFD498;
     opacity: 90%;
+
 }
 .nav{
     border: 2px solid black;
@@ -756,6 +757,11 @@ header{
         flex-direction: column;   
     }
     
+}
+@media(max-width:805px){
+    .footer-right{
+        margin-top: 40px;
+    }
 }
 
 
