@@ -665,6 +665,9 @@ header{
     .tel h3{
          font-size: 1.2em;
     }
+    .Port-folio h2{
+        font-size: 1.5em;
+    }
 }
 @media(max-width: 370px){
     .port{
@@ -675,7 +678,7 @@ header{
         width: 270px;
     }
     .Port-folio h2{
-        font-size: 1.2em;
+        font: size 1.1em; 
     }
 }
 
