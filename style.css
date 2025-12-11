@@ -763,7 +763,11 @@ header{
         margin-top: 40px;
         font-size: 1em;
     }
+    .footer-left{
+        font-size: 0.8em;
+    }
 }
+
 
 
 
