@@ -669,6 +669,7 @@ header{
       margin-top: 30px;
     }
 
+
     .p-card{
         flex-direction: column;
 
@@ -688,6 +689,11 @@ header{
     .port{
         width: 370px;   
     }
+
+    .calendly{
+                width: 370px;   
+
+    }
     .image1{
         width: 95%;
     }
@@ -703,6 +709,10 @@ header{
         width: 320px;
         height: 580px;
     }
+    .calendly{
+       width: 320px;
+        height: 580px;
+    }
     .image2{
         width: 290px;
     }
@@ -712,7 +722,7 @@ header{
     .com h3{
         font-size: 1.2em;
     }
-    .fan h3{
+    .calendly h3{
          font-size: 1.2em;
     }
     .tel h3{
@@ -725,6 +735,11 @@ header{
 @media(max-width: 370px){
     .port{
        width: 280px; 
+       height:520px ;
+    }
+
+    .calendly{
+        width: 280px; 
        height:520px ;
     }
     .image2{
