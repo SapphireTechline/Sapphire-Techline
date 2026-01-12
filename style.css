@@ -600,11 +600,17 @@ header{
 }
 .image2{
     width: 400px;
+    height: 300px;
     padding: 8px;
-    height: 310px;
     border-radius: 20px;
+    /* height: 100px; */
+
 }
-.fan{
+.calendly{
+    width: 410px;
+    height: 600px;
+    margin-top: 80px;
+    background-color: #FFD498;
     animation: cardlift 3s infinite  ;
     transition: all 4s ease-in-out;
 }
@@ -616,12 +622,12 @@ header{
         transform: translateY(-5px);
      }
 }
-.fan h3{
+.calendly h3{
     font-size: 2em;
     color: #700414;
     padding: 5px;
 }
-.fan p{
+.calendly p{
     font-size:1em ;
     color: #700414;
     font-weight: 500;
